@@ -1,0 +1,14 @@
+C:\Users\j.romo\Desktop\Dev\OtrosDatos2\OtrosDatos2\bin\Debug\OtrosDatos2.exe.config
+C:\Users\j.romo\Desktop\Dev\OtrosDatos2\OtrosDatos2\bin\Debug\OtrosDatos2.exe
+C:\Users\j.romo\Desktop\Dev\OtrosDatos2\OtrosDatos2\bin\Debug\OtrosDatos2.pdb
+C:\Users\j.romo\Desktop\Dev\OtrosDatos2\OtrosDatos2\bin\Debug\OtrosDatos2.xml
+C:\Users\j.romo\Desktop\Dev\OtrosDatos2\OtrosDatos2\obj\Debug\OtrosDatos2.vbprojAssemblyReference.cache
+C:\Users\j.romo\Desktop\Dev\OtrosDatos2\OtrosDatos2\obj\Debug\Interop.ExcelAdaptorLib.dll
+C:\Users\j.romo\Desktop\Dev\OtrosDatos2\OtrosDatos2\obj\Debug\OtrosDatos2.vbproj.ResolveComReference.cache
+C:\Users\j.romo\Desktop\Dev\OtrosDatos2\OtrosDatos2\obj\Debug\OtrosDatos2.Resources.resources
+C:\Users\j.romo\Desktop\Dev\OtrosDatos2\OtrosDatos2\obj\Debug\OtrosDatos2.SplashScreen1.resources
+C:\Users\j.romo\Desktop\Dev\OtrosDatos2\OtrosDatos2\obj\Debug\OtrosDatos2.vbproj.GenerateResource.cache
+C:\Users\j.romo\Desktop\Dev\OtrosDatos2\OtrosDatos2\obj\Debug\OtrosDatos2.vbproj.CoreCompileInputs.cache
+C:\Users\j.romo\Desktop\Dev\OtrosDatos2\OtrosDatos2\obj\Debug\OtrosDatos2.exe
+C:\Users\j.romo\Desktop\Dev\OtrosDatos2\OtrosDatos2\obj\Debug\OtrosDatos2.xml
+C:\Users\j.romo\Desktop\Dev\OtrosDatos2\OtrosDatos2\obj\Debug\OtrosDatos2.pdb

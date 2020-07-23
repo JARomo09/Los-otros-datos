@@ -1,0 +1,35 @@
+C:\Users\j.romo\Desktop\Dev\OtrosDatos2\OtrosDatos2\obj\Debug\Interop.ExcelAdaptorLib.dll
+C:\Users\j.romo\Desktop\Dev\OtrosDatos2\OtrosDatos2\obj\Debug\Los Otros Datos.vbproj.ResolveComReference.cache
+C:\Users\j.romo\Desktop\Dev\OtrosDatos2\OtrosDatos2\obj\Debug\OtrosDatos2.Resources.resources
+C:\Users\j.romo\Desktop\Dev\OtrosDatos2\OtrosDatos2\obj\Debug\OtrosDatos2.SplashScreen1.resources
+C:\Users\j.romo\Desktop\Dev\OtrosDatos2\OtrosDatos2\obj\Debug\Los Otros Datos.vbproj.GenerateResource.cache
+C:\Users\j.romo\Desktop\Dev\OtrosDatos2\OtrosDatos2\obj\Debug\Los Otros Datos.vbproj.CoreCompileInputs.cache
+C:\Users\j.romo\Desktop\Dev\OtrosDatos2\OtrosDatos2\bin\Debug\Los otros datos del covi 19 xd.exe.config
+C:\Users\j.romo\Desktop\Dev\OtrosDatos2\OtrosDatos2\bin\Debug\Los otros datos del covi 19 xd.exe
+C:\Users\j.romo\Desktop\Dev\OtrosDatos2\OtrosDatos2\bin\Debug\Los otros datos del covi 19 xd.pdb
+C:\Users\j.romo\Desktop\Dev\OtrosDatos2\OtrosDatos2\bin\Debug\Los otros datos del covi 19 xd.xml
+C:\Users\j.romo\Desktop\Dev\OtrosDatos2\OtrosDatos2\obj\Debug\Los Otros Datos.vbprojAssemblyReference.cache
+C:\Users\j.romo\Desktop\Dev\OtrosDatos2\OtrosDatos2\obj\Debug\Los otros datos del covi 19 xd.exe
+C:\Users\j.romo\Desktop\Dev\OtrosDatos2\OtrosDatos2\obj\Debug\Los otros datos del covi 19 xd.xml
+C:\Users\j.romo\Desktop\Dev\OtrosDatos2\OtrosDatos2\obj\Debug\Los otros datos del covi 19 xd.pdb
+C:\Users\j.romo\Desktop\Dev\OtrosDatos2\OtrosDatos2\bin\Debug\Los otros datos del covi 19 xd.exe.manifest
+C:\Users\j.romo\Desktop\Dev\OtrosDatos2\OtrosDatos2\bin\Debug\Los otros datos del covi 19 xd.application
+C:\Users\j.romo\Desktop\Dev\OtrosDatos2\OtrosDatos2\obj\Debug\Los otros datos del covi 19 xd.exe.manifest
+C:\Users\j.romo\Desktop\Dev\OtrosDatos2\OtrosDatos2\obj\Debug\Los otros datos del covi 19 xd.application
+C:\Users\TestDrive\Desktop\Dev\OtrosDatos2\OtrosDatos2\obj\Debug\Los otros datos del covi 19 xd.exe
+C:\Users\TestDrive\Desktop\Dev\OtrosDatos2\OtrosDatos2\obj\Debug\Los otros datos del covi 19 xd.xml
+C:\Users\TestDrive\Desktop\Dev\OtrosDatos2\OtrosDatos2\obj\Debug\Los otros datos del covi 19 xd.pdb
+C:\Users\TestDrive\Desktop\Dev\OtrosDatos2\OtrosDatos2\bin\Debug\Los otros datos del covi 19 xd.exe.config
+C:\Users\TestDrive\Desktop\Dev\OtrosDatos2\OtrosDatos2\bin\Debug\Los otros datos del covi 19 xd.exe.manifest
+C:\Users\TestDrive\Desktop\Dev\OtrosDatos2\OtrosDatos2\bin\Debug\Los otros datos del covi 19 xd.application
+C:\Users\TestDrive\Desktop\Dev\OtrosDatos2\OtrosDatos2\bin\Debug\Los otros datos del covi 19 xd.exe
+C:\Users\TestDrive\Desktop\Dev\OtrosDatos2\OtrosDatos2\bin\Debug\Los otros datos del covi 19 xd.pdb
+C:\Users\TestDrive\Desktop\Dev\OtrosDatos2\OtrosDatos2\bin\Debug\Los otros datos del covi 19 xd.xml
+C:\Users\TestDrive\Desktop\Dev\OtrosDatos2\OtrosDatos2\obj\Debug\Interop.ExcelAdaptorLib.dll
+C:\Users\TestDrive\Desktop\Dev\OtrosDatos2\OtrosDatos2\obj\Debug\Los Otros Datos.vbproj.ResolveComReference.cache
+C:\Users\TestDrive\Desktop\Dev\OtrosDatos2\OtrosDatos2\obj\Debug\OtrosDatos2.Resources.resources
+C:\Users\TestDrive\Desktop\Dev\OtrosDatos2\OtrosDatos2\obj\Debug\OtrosDatos2.SplashScreen1.resources
+C:\Users\TestDrive\Desktop\Dev\OtrosDatos2\OtrosDatos2\obj\Debug\Los Otros Datos.vbproj.GenerateResource.cache
+C:\Users\TestDrive\Desktop\Dev\OtrosDatos2\OtrosDatos2\obj\Debug\Los Otros Datos.vbproj.CoreCompileInputs.cache
+C:\Users\TestDrive\Desktop\Dev\OtrosDatos2\OtrosDatos2\obj\Debug\Los otros datos del covi 19 xd.exe.manifest
+C:\Users\TestDrive\Desktop\Dev\OtrosDatos2\OtrosDatos2\obj\Debug\Los otros datos del covi 19 xd.application
